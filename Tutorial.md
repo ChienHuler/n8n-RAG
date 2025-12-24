@@ -1,7 +1,5 @@
 # HƯỚNG DẪN XÂY DỰNG AI CHATBOT TRA CỨU DỮ LIỆU DOANH NGHIỆP (n8n + Google Drive)
 
-**Người thực hiện:** [Tên của bạn]
-**Phiên bản:** 1.0
 **Mục tiêu:** Tạo bot Telegram trả lời câu hỏi dựa trên tài liệu (PDF, Word, Excel) từ Google Drive.
 
 ---
